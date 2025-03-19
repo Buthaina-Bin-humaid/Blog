@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Digital Library</title>
+    <link>//localhost:1313/books/</link>
+    <description>Recent content in Books on Digital Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Digital Library</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 17:23:16 +0300</lastBuildDate><atom:link href="//localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic Habits</title>
+      <link>//localhost:1313/books/thiredbook/</link>
+      <pubDate>Wed, 19 Mar 2025 17:23:16 +0300</pubDate>
+      
+      <guid>//localhost:1313/books/thiredbook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Cafe at the Edge of the World</title>
+      <link>//localhost:1313/books/secondbook/</link>
+      <pubDate>Wed, 19 Mar 2025 17:23:16 +0300</pubDate>
+      
+      <guid>//localhost:1313/books/secondbook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Silent Patient</title>
+      <link>//localhost:1313/books/firstbook/</link>
+      <pubDate>Wed, 19 Mar 2025 17:23:16 +0300</pubDate>
+      
+      <guid>//localhost:1313/books/firstbook/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
